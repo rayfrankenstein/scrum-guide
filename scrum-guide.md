@@ -9,55 +9,33 @@ The Agile Resistance Committee developed Reformed Scrum to combat the problemati
 
 ## Scrum Definition
 
-Reformed scrum keeps produced softwa
+Reformed Scrum is an agile framework based on software developments' laws of physics. It is only applicable to software development and cannot be repurposed for other endeavors.
 
-Reformed Scrum:
+1. Includes all points of the Joel Test. Any violation of the Joel Test is a violation of Reformed Scrum.
+2. Finds people gaming local optima and roots them out.
+3. Resists perverse incentives.
+4. Holds that software timeslines are no estimable and cannot be predict. All software is gambling.
+5. Holds that scope is usually hyper-predictable.
+6. Fosters an environment of bi-directional accountability.
+7. Destroys transparency and value and anyone advocating them while empowering those who seeking situational awareness and wanting to ship great stuff to customers and get lots of money and marketshare from doing so.
+8. Holds that a boss is not a customer.
+9. Holds that an ounce of prevention is usually worth a pound of cure.
+10. Slow is smooth, and smooth is fast.
+11. Resists DoD-packing and management invisible sneaking of work under the radar.
+12. Acknowledges the role of technical debt in software development.
 
-1. Includes all points of the Joel Test. Any violation of the Joel Test is a violation of Reformed Scrum. 
-2. Finds people gaming local optima and roots them out. 
+
+
 
 
 1. Developers work on a roadmaps of scope maangement has provided. 
-2. Developers create the timeline. 
+2. Developers create the timeline and decide in what order things are delivered.
+3. Software is delivered at irregular intervals. An interval must at least be a month.
+4. The first four intervals of reformed scrum are foundational intervals where only infrastructure and architecture is delivered.
+5. The only thing produced by a reformed scrum team that stakeholders and management will see will be software, as software is the primary measure of progress.
+6. Developer experience is a key foundational component of software development and it can make or break a product.
+7. 20% of every increment needs to build in technical debt remediation.
 
-Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
-
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
-
-1. A Product Owner orders the work for a complex problem into a Product Backlog.
-2. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-4. Repeat
-
-Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions.
-
-Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
-
-## Scrum Theory
-
-Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
-
-Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
-
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
-
-### Transparency
-
-The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
-
-Transparency enables inspection. Inspection without transparency is misleading and wasteful.
-
-### Inspection
-
-The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events.
-
-Inspection enables adaptation. Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
-
-### Adaptation
-
-If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
-
-Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
 ## Scrum Values
 
@@ -69,7 +47,11 @@ The Scrum Team commits to achieving its goals and to supporting each other. Thei
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 
-## Scrum Team
+## Reformed Scrum Team
+
+Reformed scrum teams are cross functional. If you have to go outside the eam 
+
+Cross functional doesn't mean full stack. 
 
 The fundamental unit of Scrum is a small team of people, a Scrum Team. The Scrum Team consists of one Scrum Master, one Product Owner, and Developers. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal.
 
@@ -144,9 +126,9 @@ The Sprint is a container for all other events. Each event in Scrum is a formal 
 
 Optimally, all events are held at the same time and place to reduce complexity.
 
-### The Sprint
+### The Gambit
 
-Sprints are the heartbeat of Scrum, where ideas are turned into value.
+Gambits are irregular increments that are the building blocks of Reformed Scrum.
 
 They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
 
